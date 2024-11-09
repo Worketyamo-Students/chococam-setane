@@ -51,3 +51,41 @@ nav a {
   text-decoration: none;
   font-size: 20px;
 }
+.presentation {
+  width: 100%;
+}
+
+.p1 {
+  display: flex;
+  height: 600px;
+}
+.section-text {
+  flex: 1;
+  height: 100%;
+}
+.section-image {
+  flex: 1;
+  height: 100%;
+}
+.choco {
+  height: 100%;
+  width: 100%;
+}
+.text-sup {
+  text-align: center;
+  margin-top: 100px;
+  width: 600px;
+  height: 400px;
+  text-indent: 30px;
+}
+.side-text {
+  font-size: 50px;
+}
+
+.large-btn {
+  width: 200px;
+  height: 50px;
+  background-color: #443434;
+  color: aliceblue;
+  margin: 30px;
+}
