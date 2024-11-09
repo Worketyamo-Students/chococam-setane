@@ -1,0 +1,53 @@
+* {
+  font-family: Poppins;
+}
+
+.nav {
+  padding: 20px;
+  gap: 100px;
+  height: 102px;
+  display: flex;
+  width: 100%;
+  height: 100px;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 163px;
+  height: 80px;
+}
+nav {
+  display: flex;
+  gap: 40px;
+  width: 603px;
+  height: 36px;
+
+  justify-content: center;
+  align-items: center;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  line-height: 36px;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.contact-section {
+  display: flex;
+  margin-right: 50px;
+  margin-top: 5px;
+  height: 35px;
+  width: 155px;
+  text-align: left;
+  background-color: #443434;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.contact {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
