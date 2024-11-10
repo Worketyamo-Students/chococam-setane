@@ -33,6 +33,9 @@ nav a {
   font-weight: 500;
   margin-top: 30px;
 }
+main {
+  width: 100%;
+}
 
 .contact-section {
   display: flex;
@@ -56,8 +59,12 @@ nav a {
 }
 
 .p1 {
+  margin: 0px;
   display: flex;
+  width: 100%s;
   height: 600px;
+  text-align: center;
+  margin-top: 30px;
 }
 .section-text {
   flex: 1;
@@ -77,15 +84,43 @@ nav a {
   width: 600px;
   height: 400px;
   text-indent: 30px;
+  padding: 100px;
 }
 .side-text {
   font-size: 50px;
 }
 
 .large-btn {
-  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
   height: 50px;
   background-color: #443434;
   color: aliceblue;
   margin: 30px;
+}
+.anchor {
+  color: aliceblue;
+  text-decoration: none;
+}
+.j {
+  margin-left: 100px;
+}
+.left {
+  margin-left: 150px;
+}
+.prix {
+  height: 500px;
+}
+
+.w {
+  height: 613px;
+  width: 1101px;
+  margin-left: 120px;
+}
+.pre {
+  width: 100%;
+  background-color: #443434;
+  height: ;
 }
