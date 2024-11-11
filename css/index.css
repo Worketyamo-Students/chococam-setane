@@ -121,6 +121,25 @@ main {
 }
 .pre {
   width: 100%;
+  display: flex;
   background-color: #443434;
-  height: ;
+  color: aliceblue;
+  justify-content: space-around;
+  padding: 50px;
+
+  height: 300px;
+}
+.mid {
+}
+
+.gum {
+  height: 100px;
+  padding: 50px;
+}
+.items {
+  margin: 300px;
+  border: 1px solid;
+  height: 200px;
+  width: 200px;
+  border-radius: 50% 30px 40px 80px;
 }
