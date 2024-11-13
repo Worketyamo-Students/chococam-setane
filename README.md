@@ -1,4 +1,4 @@
-#Project ChOCOCAM ![Chococam](./assets/images/logo-chococam%201.svg)#
+#Project ChOCOCAM #
 
 The aime of this projects was tu build a static web site with some minor animations
 
