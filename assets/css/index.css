@@ -22,6 +22,7 @@
 .logo {
   width: 163px;
   height: 80px;
+  cursor: pointer;
 }
 nav {
   display: flex;
@@ -41,6 +42,15 @@ nav a {
   margin-top: 30px;
 }
 nav .ar:hover {
+  cursor: pointer;
+}
+.ar:hover {
+  text-decoration: underline;
+  text-underline-offset: 30px;
+  transition: 2s ease;
+}
+.bt:hover {
+  box-shadow: 10px 10px lightblue;
   cursor: pointer;
 }
 
