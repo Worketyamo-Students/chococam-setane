@@ -1,19 +1,19 @@
-#Project ChOCOCAM #
+# Project ChOCOCAM 
 
 The aime of this projects was tu build a static web site with some minor animations
 
-##Author##
+## Author
 
 [SETANE-ESSAME-EMMANUEL](https://github.com/SETANE-ESSAME-EMMANUEL)
 
-##Languages /Frame work 🚀​##
+## Languages /Frame work 🚀​
 
-**HTML**
-**Css**
-##Support##
+-**HTML**
+-**Css**
+## Support
 
 [SETANE-ESSAME-EMMANUEL](https://github.com/SETANE-ESSAME-EMMANUEL)
 
-##Feedback##
+## Feedback
 
 [SETANE-ESSAME-EMMANUEL](https://github.com/SETANE-ESSAME-EMMANUEL)
