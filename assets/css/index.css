@@ -8,6 +8,10 @@
 * {
   font-family: Poppins;
 }
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
 
 .nav {
   padding: 20px;
